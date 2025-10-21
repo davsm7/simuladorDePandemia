@@ -19,7 +19,7 @@ pip install geopandas matplotlib numpy tkinter
 ### Ejecutar el Simulador
 
 ```bash
-python simulador_pandemia.py
+python simuladorPandemia.py
 ```
 
 ---
